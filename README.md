@@ -1,3 +1,10 @@
+#First of all i want to thank Clever Programmer community for sharing and teaching as React . 
+#I decided to learn React JS so i can improve my skills on front developemenet and become a Full Stack dev .
+#let's build whatsapp web app .
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
